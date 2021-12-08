@@ -63,7 +63,7 @@ a{
 }
 @media screen and (min-width:360px) and (max-width:640px) {
           .flex-container{
-           display:block;   
+           display:inline-block;   
             width: 900px;
            height: 100px;
            margin-bottom: 100px;
