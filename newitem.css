@@ -1,0 +1,21 @@
+.newitem{
+    background-color: white;
+border: 2px solid red;
+border-radius: 5%;
+position: absolute;
+left: 35%;
+top: 25%;
+width: 25%;
+height: 30%;
+text-align: center;
+}
+.blur{
+    filter: blur(8px);
+}
+@media screen and (min-width:360px) and (max-width:640px){
+    .newitem{
+        left: 5%;
+        width: 175px;
+        height: 130px;
+    }
+}
