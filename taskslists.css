@@ -61,7 +61,7 @@ a{
     text-decoration: none;
     color: red;
 }
-@media screen and (min-width:360px) and (max-width:640px) {
+/* @media screen and (min-width:360px) and (max-width:640px) {
           .flex-container{
            display:inline-block;   
             width: 900px;
@@ -96,4 +96,4 @@ a{
     .child1-2 span:nth-child(even){
      display: none;
     }
-}
+} */
